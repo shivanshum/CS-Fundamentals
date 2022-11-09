@@ -1,0 +1,37 @@
+Describe data.
+Data is the collection of unprocessed information or basic facts.
+Describe a database.
+
+A database is a grouping of linked material that may be organised and kept for easy access and management.
+Database Management System: What is it?
+Software called DBMS is used to create, manipulate, and administer databases.
+Oracle and MySQL, for instance.
+
+The following tasks are possible with DBMS:
+
+Data Definition: It's used to create, modify, and remove definitions that specify how data is organised in a database.
+Data Updating: This process involves adding, changing, and removing the actual data from the database.
+Data Retrieval: This process is used to get data out of a database that programmes can use for a variety of things.
+User administration is used for user registration, user monitoring, data integrity, data security, concurrency control, performance monitoring, and information recovery from unexpected failure-corrupted data.
+
+DBMS benefits include:. Controls database redundancy.
+
+Simple to maintain.
+
+Backup and restoration
+
+Elevation of Contradictory Data.
+
+Security of data.
+
+easier access to data
+
+DBMS drawbacks include: 1. High initial cost.
+
+Complexity .
+
+Cost of conversion in certain circumstances.
+
+security concern
+
+Slower Reaction
